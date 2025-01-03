@@ -1,8 +1,11 @@
-clean
-laundry
+go to grocery
 Gat the carClean the bag
 Fix the drawer
 make soup
 make pizza
 Clean the code
 clean a shelf
+Do laundry
+Do laundry
+go grocery
+have breakfast
